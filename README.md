@@ -2,6 +2,8 @@
 
 A basic SERP URL scraper with AI-generated keywords based on a user-provided description.
 
+![Screenshot from 2024-10-26 21-04-16](https://github.com/user-attachments/assets/ff90d8a7-19ed-4f11-8518-fc97cb0d706c)
+
 ## Installation
 
 ```bash
